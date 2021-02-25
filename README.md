@@ -7,4 +7,4 @@ This project has been through 3 main components with dataset from an investing c
 2. Build a model to predict which user will churn.
 3. Find out the most important features.
 
-This project is still under process and is targeted to be completed in the end of the March.
+This project is still underway and is targeted to be completed at the end of the March.
